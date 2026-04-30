@@ -1,0 +1,9 @@
+---
+title: "Módulo 1 - Ecosistema Digital"
+---
+
+## Temas
+- Carpetas reproducibles
+- Nombres de archivo
+- Versionado básico
+- Nube y respaldos

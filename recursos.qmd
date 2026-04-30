@@ -1,0 +1,10 @@
+---
+title: "Recursos"
+---
+
+- Google Colab
+- Google Forms
+- Python
+- Quarto
+- Corpus abiertos
+- Guías de citación

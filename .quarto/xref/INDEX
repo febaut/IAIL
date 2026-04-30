@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "7b471efc"
+  },
+  "cronograma.qmd": {
+    "cronograma.html": "aacbc15f"
+  },
+  "index.qmd": {
+    "index.html": "314860ff"
+  },
+  "modulos/modulo1.qmd": {
+    "modulo1.html": "c712ddef"
+  },
+  "recursos.qmd": {
+    "recursos.html": "3883ea35"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "ae03bea4"
+  }
+}

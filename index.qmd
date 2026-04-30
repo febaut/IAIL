@@ -1,0 +1,46 @@
+---
+title: "Inicio"
+---
+
+::: {.hero}
+# Informática Aplicada a la Investigación Lingüística
+Herramientas digitales para recolectar, procesar y analizar datos lingüísticos.
+:::
+
+## ¿Qué aprenderás?
+
+::: {.card-grid}
+::: {.course-card}
+### Datos
+CSV, hojas de cálculo y limpieza.
+:::
+::: {.course-card}
+### Python
+Automatización y análisis textual.
+:::
+::: {.course-card}
+### IA
+Uso crítico de IA en investigación.
+:::
+::: {.course-card}
+### Visualización
+Gráficos y reportes claros.
+:::
+:::
+
+## Indicadores del curso
+
+::: {.card-grid}
+::: {.course-card}
+<div class='metric'>16</div>
+Semanas
+:::
+::: {.course-card}
+<div class='metric'>4</div>
+Módulos base
+:::
+::: {.course-card}
+<div class='metric'>70%</div>
+Práctico
+:::
+:::

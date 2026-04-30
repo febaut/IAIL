@@ -1,0 +1,12 @@
+---
+title: "Cronograma"
+---
+
+| Semana | Tema |
+|---|---|
+| 1-2 | Ecosistema digital |
+| 3-5 | Recolección de datos |
+| 6-8 | Limpieza y manejo de datos |
+| 9-12 | Python para texto |
+| 13-14 | Visualización |
+| 15-16 | Proyecto final |

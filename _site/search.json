@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "modulos/modulo1.html",
+    "href": "modulos/modulo1.html",
+    "title": "Módulo 1 - Ecosistema Digital",
+    "section": "",
+    "text": "Carpetas reproducibles\nNombres de archivo\nVersionado básico\nNube y respaldos"
+  },
+  {
+    "objectID": "modulos/modulo1.html#temas",
+    "href": "modulos/modulo1.html#temas",
+    "title": "Módulo 1 - Ecosistema Digital",
+    "section": "",
+    "text": "Carpetas reproducibles\nNombres de archivo\nVersionado básico\nNube y respaldos"
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "Semana\nTema\n\n\n\n\n1-2\nEcosistema digital\n\n\n3-5\nRecolección de datos\n\n\n6-8\nLimpieza y manejo de datos\n\n\n9-12\nPython para texto\n\n\n13-14\nVisualización\n\n\n15-16\nProyecto final"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Herramientas digitales para recolectar, procesar y analizar datos lingüísticos."
+  },
+  {
+    "objectID": "index.html#qué-aprenderás",
+    "href": "index.html#qué-aprenderás",
+    "title": "Inicio",
+    "section": "¿Qué aprenderás?",
+    "text": "¿Qué aprenderás?\n\n\nDatos\nCSV, hojas de cálculo y limpieza.\n\n\nPython\nAutomatización y análisis textual.\n\n\nIA\nUso crítico de IA en investigación.\n\n\nVisualización\nGráficos y reportes claros."
+  },
+  {
+    "objectID": "index.html#indicadores-del-curso",
+    "href": "index.html#indicadores-del-curso",
+    "title": "Inicio",
+    "section": "Indicadores del curso",
+    "text": "Indicadores del curso\n\n\n\n16\n\nSemanas\n\n\n\n4\n\nMódulos base\n\n\n\n70%\n\nPráctico"
+  },
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Recursos",
+    "section": "",
+    "text": "Google Colab\nGoogle Forms\nPython\nQuarto\nCorpus abiertos\nGuías de citación"
+  }
+]
