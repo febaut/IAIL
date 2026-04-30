@@ -1,0 +1,14 @@
+---
+title: "Programa del Curso"
+---
+
+## Descripción
+Curso orientado al uso de herramientas informáticas para investigación lingüística.
+
+## Competencias
+
+- Organizar proyectos digitales.
+- Recolectar datos lingüísticos.
+- Limpiar y analizar texto.
+- Comunicar resultados con visualizaciones.
+- Usar IA responsablemente.

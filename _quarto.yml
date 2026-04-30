@@ -1,19 +1,37 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "IAIL"
+  title: "Informática Aplicada a la Investigación Lingüística"
   navbar:
+    background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Inicio
+      - href: syllabus.qmd
+        text: Programa
+      - href: cronograma.qmd
+        text: Cronograma
+      - text: Módulos
+        menu:
+          - href: modulos/modulo1.qmd
+            text: Ecosistema Digital
+          - href: modulos/modulo2.qmd
+            text: Recolección de Datos
+          - href: modulos/modulo3.qmd
+            text: Datos y Limpieza
+          - href: modulos/modulo4.qmd
+            text: Python para Texto
+      - href: recursos.qmd
+        text: Recursos
+  page-footer:
+    center: "Curso desarrollado con Quarto"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-
-
+    smooth-scroll: true
+    page-layout: full
