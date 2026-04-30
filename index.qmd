@@ -1,46 +1,107 @@
 ---
 title: "Inicio"
+page-layout: full
 ---
 
 ::: {.hero}
 # Informática Aplicada a la Investigación Lingüística
-Herramientas digitales para recolectar, procesar y analizar datos lingüísticos.
+
+Herramientas digitales para recolectar, organizar, analizar y comunicar datos lingüísticos en contextos académicos y profesionales.
+
+[📘 Ver Programa](syllabus.qmd){.btn .btn-light .btn-lg}
+[🔒 Zona Estudiantes](#zona-estudiantes){.btn .btn-outline-light .btn-lg}
 :::
 
-## ¿Qué aprenderás?
-
-::: {.card-grid}
-::: {.course-card}
-### Datos
-CSV, hojas de cálculo y limpieza.
-:::
-::: {.course-card}
-### Python
-Automatización y análisis textual.
-:::
-::: {.course-card}
-### IA
-Uso crítico de IA en investigación.
-:::
-::: {.course-card}
-### Visualización
-Gráficos y reportes claros.
-:::
-:::
-
-## Indicadores del curso
+## ¿Por qué este curso?
 
 ::: {.card-grid}
+
 ::: {.course-card}
-<div class='metric'>16</div>
-Semanas
+## 📊 Datos
+
+Aprende a trabajar con archivos CSV, hojas de cálculo y bases de datos simples.
 :::
+
 ::: {.course-card}
-<div class='metric'>4</div>
-Módulos base
+## 💻 Programación
+
+Introducción práctica a Python aplicada al procesamiento textual.
 :::
+
 ::: {.course-card}
-<div class='metric'>70%</div>
-Práctico
+## 🤖 IA
+
+Uso responsable de herramientas de IA para apoyar investigación.
 :::
+
+::: {.course-card}
+## 📈 Visualización
+
+Convierte datos lingüísticos en tablas y gráficos claros.
 :::
+
+:::
+
+---
+
+## Módulos del Curso
+
+::: {.card-grid}
+
+::: {.course-card}
+### Módulo 1
+
+Ecosistema Digital
+:::
+
+::: {.course-card}
+### Módulo 2
+
+Recolección de Datos
+:::
+
+::: {.course-card}
+### Módulo 3
+
+Limpieza y Organización
+:::
+
+::: {.course-card}
+### Módulo 4
+
+Python para Texto
+:::
+
+:::
+
+---
+
+## Tecnologías Utilizadas
+
+- Python  
+- Google Colab  
+- Google Forms  
+- Hojas de cálculo  
+- Quarto  
+- GitHub
+
+---
+
+## {#zona-estudiantes} 🔒 Zona Estudiantes
+
+Recursos exclusivos para estudiantes inscritos:
+
+- Entrega de talleres  
+- Evaluaciones  
+- Bases de datos privadas  
+- Material complementario  
+
+[Ingresar](https://TUENLACEAQUI.com){.btn .btn-primary .btn-lg}
+
+---
+
+## Información General
+
+**Docente:** Tu Nombre  
+**Modalidad:** Presencial / Virtual  
+**Periodo:** 2026-I
